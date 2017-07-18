@@ -7,8 +7,7 @@ export class Hero {
 
 @Component({
   selector: 'app-hero',
-  templateUrl: './hero.component.html',
-  styleUrls: ['./hero.component.css']
+  template: ``
 })
 export class HeroComponent implements OnInit {
 

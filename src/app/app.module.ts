@@ -10,7 +10,7 @@ import { HeroComponent } from './hero/hero.component';
   declarations: [
     AppComponent,
     HeroDetailComponent,
-    HeroComponent
+    HeroComponent,
   ],
   imports: [
     BrowserModule,
